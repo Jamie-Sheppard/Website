@@ -1,0 +1,233 @@
+ .u-section-1 {
+  background-image: url("images/topography_contour_map_design_1504.jpg.png");
+  background-position: 50% 50%;
+  min-height: 975px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 302px;
+  background-image: none;
+  min-height: 766px;
+  height: auto;
+  margin: 154px auto 0 calc(((100% - 1920px) / 2) + 102px);
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 19px 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 196px;
+  min-height: 196px;
+  background-image: url("images/WhatsAppImage2022-11-13at16.26.39.jpg");
+  margin: 0 auto;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 8px 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Lexend;
+  background-image: none;
+  font-size: 1.25rem;
+  margin: 8px auto 0;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 146px;
+  height: 28px;
+  margin: 17px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Lexend;
+  margin: -26px auto 0;
+}
+
+.u-section-1 .u-line-1 {
+  width: 192px;
+  margin: 22px auto 0;
+}
+
+.u-section-1 .u-shape-2 {
+  height: 64px;
+  width: 64px;
+  margin: 21px auto 0 29px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 47px;
+  height: 47px;
+  margin: -55px auto 0 38px;
+  padding: 5px;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: Lexend;
+  margin: -55px auto 0 106px;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: Lexend;
+  font-size: 0.9375rem;
+  margin: -2px auto 0 106px;
+}
+
+.u-section-1 .u-shape-3 {
+  height: 64px;
+  width: 64px;
+  margin: 46px auto 0 29px;
+}
+
+.u-section-1 .u-icon-2 {
+  width: 47px;
+  height: 47px;
+  margin: -55px auto 0 38px;
+  padding: 5px;
+}
+
+.u-section-1 .u-text-5 {
+  font-family: Lexend;
+  margin: -55px auto 0 106px;
+}
+
+.u-section-1 .u-text-6 {
+  font-family: Lexend;
+  font-size: 1rem;
+  margin: -2px auto 0 106px;
+}
+
+.u-section-1 .u-shape-4 {
+  height: 64px;
+  width: 64px;
+  margin: 45px auto 0 29px;
+}
+
+.u-section-1 .u-icon-3 {
+  width: 47px;
+  height: 47px;
+  margin: -55px auto 0 38px;
+  padding: 5px;
+}
+
+.u-section-1 .u-text-7 {
+  font-family: Lexend;
+  margin: -55px auto 0 106px;
+}
+
+.u-section-1 .u-text-8 {
+  font-family: Lexend;
+  font-size: 1rem;
+  margin: -2px auto 0 106px;
+}
+
+.u-section-1 .u-shape-5 {
+  height: 64px;
+  width: 64px;
+  margin: 45px auto 0 29px;
+}
+
+.u-section-1 .u-icon-4 {
+  width: 47px;
+  height: 47px;
+  margin: -55px auto 0 38px;
+  padding: 5px;
+}
+
+.u-section-1 .u-text-9 {
+  font-family: Lexend;
+  margin: -55px auto 0 106px;
+}
+
+.u-section-1 .u-text-10 {
+  font-family: Lexend;
+  font-size: 1rem;
+  margin: -2px auto 0 106px;
+}
+
+.u-section-1 .u-social-icons-1 {
+  white-space: nowrap;
+  height: 23px;
+  min-height: 16px;
+  width: 169px;
+  min-width: 136px;
+  margin: 43px 61px 0 auto;
+}
+
+.u-section-1 .u-icon-5 {
+  height: 48px;
+}
+
+.u-section-1 .u-icon-6 {
+  height: 48px;
+}
+
+.u-section-1 .u-icon-7 {
+  height: 48px;
+}
+
+.u-section-1 .u-icon-8 {
+  height: 48px;
+}
+
+.u-section-1 .u-icon-9 {
+  height: 48px;
+}
+
+.u-section-1 .u-line-2 {
+  transform-origin: right center 0px;
+  margin-top: 26px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-line-3 {
+  transform-origin: right center 0px;
+  margin-top: 3px;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 477px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-left: calc(((100% - 940px) / 2) + 102px);
+    height: auto;
+  }
+
+  .u-section-1 .u-line-2 {
+    margin-top: 374px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 365px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-left: calc(((100% - 720px) / 2) + 102px);
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 274px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-left: calc(((100% - 540px) / 2) + 102px);
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 173px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-left: calc(((100% - 340px) / 2) + 38px);
+  }
+}
